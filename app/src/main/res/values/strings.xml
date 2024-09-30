@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">constraint-layout-followup</string>
+    <string name="text_field_prompt">Send the Message</string>
+    <string name="button_prompt">Send</string>
+</resources>

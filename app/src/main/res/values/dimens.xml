@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_card_component_height">150dp</dimen>
+    <dimen name="main_card_component_margin_side">20dp</dimen>
+    <dimen name="main_card_component_corner_radius">30dp</dimen>
+    <dimen name="small_card_component_width">100dp</dimen>
+    <dimen name="small_card_component_height">50dp</dimen>
+    <dimen name="small_card_component_corner_radius">15dp</dimen>
+    <dimen name="big_card_component_height">250dp</dimen>
+    <dimen name="big_card_component_corner_radius">50dp</dimen>
+</resources>
